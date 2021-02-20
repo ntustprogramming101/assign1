@@ -2,7 +2,7 @@
 請參考以下步驟，完成作業。
 
 ### 1.下載作業專案，並完成之。
-- 點選網頁右方的 `Download Zip按鈕`(網頁右側)
+- 點選網頁右方的 `Code 按鈕 -> Download Zip 選項`(網頁右側)
 - 解壓縮檔案，`並更名資料夾`為`主程式的名稱`(如: `assign1`)
 - 參考作業要求，在指定的檔案裡面(如: `assign1.pde`) 裡面完成你的程式碼。(請不要擅動其他檔案)
 
@@ -21,4 +21,4 @@
 - 到 github.com 裡面，畫面右側的 repository 裡點入你的 assignX 作業。.
 - 執行本說明檔的步驟二(上傳你完成的程式碼)，不用再次執行步驟3
 
-### 恭喜你交作業完畢！有問題請上[U.Camdemy平台](http://u.camdemy.com/course/2211/section/lecture/)討論。
+### 恭喜你交作業完畢！有問題請上[創意程式設計課程平台](http://programming101.formosasoft.com/course/18/discuss)討論。
