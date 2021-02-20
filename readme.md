@@ -14,7 +14,7 @@
 ### 3.檢視遊戲與繳交作業連結到平台
 - 點進去網頁右側的 `Settings按鈕`(齒輪圖示)，
 - 找到敘述 `Your site is published at : http://ntustprogramming101.github.io/assign1-你的ID/` 點入連結確認連結無誤，
-- 複製此連結，並到 [Programming101](http://programming101.ntust.edu.tw/dashboard.html) 繳交。
+- 複製此連結，並到 [Programming101](https://programming101.ntust.edu.tw/#) 繳交。
 
 ### (4).更新你上傳過的程式碼
 - 請先確認你登入了 github 
